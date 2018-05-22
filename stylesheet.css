@@ -263,21 +263,21 @@ p.text4{
     }
     @font-face {
         font-family:sm;
-        src: url('assets/fonts/KG.ttf');
+        src: url('KG.ttf');
     
     }
     @font-face {
         font-family:mm;
-        src: url('assets/fonts/rb.ttf');
+        src: url('rb.ttf');
     
     }
     @font-face {
         font-family:nn;
-        src: url('assets/fonts/bs 2.ttf');
+        src: url('bs 2.ttf');
     }
     @font-face {
         font-family:rb;
-        src: url('assets/fonts/as.ttf');
+        src: url('as.ttf');
     
     }
     .btn{
